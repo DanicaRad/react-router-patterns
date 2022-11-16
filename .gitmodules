@@ -1,3 +1,6 @@
 [submodule "react-router-dog-finder"]
 	path = react-router-dog-finder
 	url = https://github.com/DanicaRad/react-router-dog-finder
+[submodule "react-router-colors"]
+	path = react-router-colors
+	url = https://github.com/DanicaRad/react-router-colors
